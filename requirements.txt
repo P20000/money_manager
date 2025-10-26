@@ -1,0 +1,8 @@
+google-auth==2.10.0
+google-auth-oauthlib==0.4.6
+google-api-python-client==2.54.0
+python-telegram-bot==20.0
+pandas==2.3.3
+matplotlib==3.10.7
+apscheduler==3.9.1
+customtkinter==5.2.2
